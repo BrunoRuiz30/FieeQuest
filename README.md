@@ -47,8 +47,7 @@ Los UniMons son la base de tu equipo. Cada uno tiene atributos de HP, Ataque, De
 ---
 
 ## 🚀 Instalación y Ejecución
-1. Clona este repositorio.
-2. Asegúrate de tener Python instalado.
-3. Ejecuta el archivo principal:
+1. **Clona el repositorio** o descarga los archivos.
+2. **Instala las dependencias** necesarias con este comando en tu terminal:
    ```bash
-   python PRINCIPAL.py
+   pip install -r requirements.txt
