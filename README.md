@@ -27,7 +27,7 @@ Mueve a tu personaje por el campus usando las teclas de dirección clásicas:
 ## 🐉 Sistema de UniMons
 Los UniMons son la base de tu equipo. Cada uno tiene atributos de HP, Ataque, Defensa y Velocidad. 
 
-### Tipos y Fortalezas [cite: 84]
+### Tipos y Fortalezas 
 | Tipo | Fuerte contra | Débil contra |
 | :--- | :--- | :--- |
 | **Fuego** 🔥 | Planta  | Agua  |
